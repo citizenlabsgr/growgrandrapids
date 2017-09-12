@@ -18,4 +18,6 @@ Welcome to Citizen Labs, a place for innovation and citizen engagement focused o
 
 **Talent:** We are broad group of over 80 active citizens who support growing Grand Rapids into the best it can be.
 
-Want To Help Your City? Good, we could use your help. Join Now
+## Want To Help Your City? Good, we could use your help.
+
+[Join Now](https://citizenlabs.org/people.html)
